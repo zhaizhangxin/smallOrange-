@@ -1,0 +1,52 @@
+body{
+    background: #FBECEC;
+}
+.am-nav-text{
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+
+
+
+.am-cash{
+    padding: 0;
+    list-style: none;
+}
+.cashList{
+    margin-bottom: 20px;
+    padding: 10px 8px;
+    background: #FFFFFF;
+}
+.cashList p{
+    margin: 0;
+}
+
+
+.caskWith{
+    margin-top: 40px;
+    padding: 10px;
+}
+.withText{
+    font-size: 16px;
+}
+.cashText p{
+    font-size: 18px;
+}
+
+
+.cashWithBth{
+    padding: 10px 50px;
+}
+.cashBth{
+    width: 100%;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    background: #F74444;
+    color: #fff;
+    border: 0;
+    outline: none;
+    border-radius: 10px;
+}

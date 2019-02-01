@@ -1,0 +1,154 @@
+/* Write your styles */
+body{
+    background: #FFFFFF;
+}
+/*导航*/
+.am-header {
+    text-align: center;
+    background: #fff;
+    font-size:16px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(1,1,1,1);
+}
+
+
+/*个人信息*/
+.cont_info{
+    position: relative;
+}
+.contImg{
+    width: 100%;
+    height: 164px;
+}
+.container{
+    padding: 22px 10%;
+    position: absolute;
+    top: 10%;
+    left: 0;
+}
+.contHead{
+    display: flex;
+    display: -webkit-flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+.headInfo{
+    display: flex;
+    display: -webkit-flex;
+}
+.headIcon{
+    width: 42px;
+    height: 42px;
+}
+.conPhone{
+    margin: 0;
+    margin-left: 12px;
+    line-height: 42px;
+    font-size:16px;
+    font-family:PingFangSC-Semibold;
+    font-weight:600;
+    color: #FFFFFF;
+}
+
+.contSign{
+    margin-top: 6px;
+    display: flex;
+    display: -webkit-flex;
+    padding: 0 20px;
+    height: 30px;
+    line-height: 30px;
+    background:rgba(212,182,124,1);
+    border-radius:15px;
+}
+.signIcon{
+    margin-top: 7px;
+    width: 12px;
+    height: 16px;
+}
+.singText{
+    margin: 0;
+    margin-left: 8px;
+    font-size:12px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(255,255,255,1);
+}
+
+
+
+.am-income{
+    margin-top: 16px;
+    display: flex;
+    display: -webkit-flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+.income p{
+    margin: 0;
+    margin-top: 4px;
+    font-size:12px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(255,255,255,1);
+}
+.income_ti{
+    display: flex;
+    display: -webkit-flex;
+}
+
+.income_money{
+    margin: 0;
+    margin-top: -6%;
+    font-size:40px;
+    font-family:PingFangSC-Semibold;
+    font-weight:600;
+    color:rgba(244,108,44,1);
+}
+.income_with{
+    margin: 0;
+    margin-left: 4px;
+    line-height: 50px;
+    font-size:12px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(244,108,44,1);
+}
+
+
+
+/*任务*/
+.am-actives{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-between;
+    -webkit-justify-content: space-between;
+}
+.am-avg-task img{
+    width: 100%;
+    height: 130px;
+}
+.homeKstw{
+    width: 100%;
+    height: 224px;
+}
+
+.am-avg-right{
+    margin-left: 10px;
+}
+.am-new{
+    width: 100%;
+    height: 66px;
+}
+.am-avg-pai img{
+    width: 100%;
+    height: 110px;
+}
+.am-avg-renwu img{
+    width: 100%;
+    height: 114px;
+}
+.am-avg-hongbao img{
+    width: 100%;
+    height: 66px;
+}

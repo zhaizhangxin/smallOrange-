@@ -1,0 +1,39 @@
+.am-nav-text{
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+
+
+.phoneNum{
+  font-size: 14px;
+}
+
+.am-phone{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    width: 64%;
+    border: 0;
+    border-bottom: 1px solid #bbbbbb;
+}
+button{
+    border: 0;
+    background: none;
+    outline: none;
+}
+
+
+.bindBth{
+    padding: 90px;
+}
+.bindButton{
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    background: #EC1616;
+    color: #FFFFFF;
+    font-size: 14px;
+}

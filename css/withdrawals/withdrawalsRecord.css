@@ -1,0 +1,18 @@
+.am-nav-text{
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+.am-topbar{
+    margin-bottom: 0;
+}
+
+
+
+.tables{
+    padding: 10px 0;
+}
+.textCent{
+     /*text-align: center;*/
+ }

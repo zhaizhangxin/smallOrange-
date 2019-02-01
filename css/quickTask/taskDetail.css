@@ -1,0 +1,73 @@
+/*导航条*/
+.am-topbar{
+    margin-bottom: 0;
+}
+.am-nav-text{
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+.am-reward{
+    padding: 20px;
+    background: #E3D994;
+}
+.am-reward p{
+    font-size: 18px;
+}
+.reward{
+    margin-bottom: 0;
+}
+
+
+
+.am-container{
+    margin-top: 30px;
+}
+.detailFirst{
+    margin-top: 20px;
+}
+.title{
+    margin: 0;
+    font-size: 16px;
+}
+.firsr_deatil{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+.storeImg{
+    width: 76px;
+    height: 76px;
+}
+.contBtn{
+    margin-top: 12px;
+    padding: 0 20px;
+    height: 48px;
+    font-size: 16px;
+    border: 1px solid #bbbbbb;
+    border-radius: 50px;
+    background: none;
+    outline: none;
+}
+.contText{
+    font-size: 12px;
+}
+.btn_store{
+    margin-top: 0;
+}
+
+
+
+.giveTask{
+    padding: 10px 0;
+    margin: auto;
+    margin-top: 50px;
+    width: 90%;
+    display: block;
+    font-size: 24px;
+    border: 1px solid #bbbbbb;
+    border-radius: 50px;
+    background: none;
+    outline: none;
+}

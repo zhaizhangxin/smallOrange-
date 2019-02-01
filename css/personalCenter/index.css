@@ -1,0 +1,49 @@
+.am-nav-text{
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+
+
+
+.am-container{
+    display: flex;
+}
+.am-headerPic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.am-information{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 68%;
+}
+.info_mation p{
+    margin: 10px 0 0 0;
+    font-size: 20px;
+}
+.infoIcon{
+    width: 24px;
+    height: 24px;
+}
+
+
+
+.contList{
+    margin-top: 30px;
+    padding: 0;
+    list-style: none;
+}
+.am-contList{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #bbbbbb;
+    color: #000;
+}
+.am-contList p{
+    margin: 0;
+}

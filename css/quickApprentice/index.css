@@ -1,0 +1,111 @@
+.am-nav-text {
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+
+.am-topbar {
+    margin: 0;
+}
+
+.headImg img {
+    width: 100%;
+    height: 152px;
+}
+
+
+/*邀请/奖励*/
+.invitation {
+    margin-top: 10px;
+    display: flex;
+}
+
+.am-invit {
+    width: 50%;
+    text-align: center;
+}
+
+.am-invit p {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+/*邀请流程图*/
+.am-imvitImg img {
+    width: 100%;
+    height: 110px;
+}
+
+/*分享链接*/
+.am-shareHref {
+    padding: 20px 10px;
+}
+
+.shareBth {
+    width: 100%;
+    background: #E51C23;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+    /*line-height: 46px;*/
+    border-radius: 50px;
+    border: 0;
+    outline: none;
+}
+
+/*收徒任务*/
+.apprentice {
+    padding: 0;
+}
+
+.apprentice_list {
+    display: flex;
+    margin-top: 20px;
+}
+
+.apprenImg {
+    width: 66px;
+    height: 66px;
+}
+
+.apprenRight {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 76%;
+}
+
+.apprenText {
+    margin: 0;
+    font-size: 20px;
+}
+
+.apprenmoney {
+    margin: 0;
+    font-size: 24px;
+}
+
+
+/*收入表格*/
+.tables {
+    padding: 4px;
+    border: 1px solid #bbbbbb;
+}
+
+.tableColor {
+    color: #E51C23;
+}
+
+/*奖励须知*/
+.am-reward p{
+    font-size: 14px;
+}
+.reText_rew p{
+    margin: 0;
+}
+.am-quick{
+    margin: 6px 0;
+}

@@ -1,0 +1,27 @@
+.am-nav-text{
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+
+
+.logoIcon{
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+.iconText{
+    font-size: 14px;
+    text-align: center;
+}
+.cantact{
+    padding: 0 20px;
+    margin-top: 50px;
+}
+.cantact p{
+    margin: 0;
+    font-size: 14px;
+}

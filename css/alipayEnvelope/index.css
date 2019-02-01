@@ -1,0 +1,16 @@
+.am-nav-text{
+    margin: 0;
+    width: 92%;
+    line-height: 50px;
+    text-align: center;
+}
+.am-container{
+    font-size: 14px;
+}
+.am-img{
+    padding: 10px;
+}
+.am-alipayImg{
+    width: 100%;
+    height: 540px;
+}
