@@ -11,6 +11,9 @@ body{
     font-weight:400;
     color:rgba(1,1,1,1);
 }
+.am-container{
+    padding: 0 16px;
+}
 
 
 /*个人信息*/
@@ -124,31 +127,11 @@ body{
     justify-content: space-between;
     -webkit-justify-content: space-between;
 }
-.am-avg-task img{
-    width: 100%;
-    height: 130px;
-}
-.homeKstw{
-    width: 100%;
-    height: 224px;
-}
+
 
 .am-avg-right{
     margin-left: 10px;
 }
-.am-new{
-    width: 100%;
-    height: 66px;
-}
-.am-avg-pai img{
-    width: 100%;
-    height: 110px;
-}
-.am-avg-renwu img{
-    width: 100%;
-    height: 114px;
-}
-.am-avg-hongbao img{
-    width: 100%;
-    height: 66px;
+.am-pai img{
+    margin-bottom: 3.5%;
 }
